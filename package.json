@@ -1,0 +1,33 @@
+{
+  "name": "BDDTests",
+  "version": "0.0.1",
+  "description": "An npm module and grunt plugin which generates your Protractor test reports in HTML with screenshots",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "protractor": "~1.8.0",
+    "cucumber": "latest",
+    "mkdirp": "~0.3.5"
+  },
+  "keywords": [
+    "screenshot",
+    "selenium",
+    "protractor",
+    "protractor html report"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "chai": "latest",
+    "chai-as-promised": "latest",
+    "promise": "^7.0.4",
+    "selenium-webdriver": "^2.45.0"
+  }
+}

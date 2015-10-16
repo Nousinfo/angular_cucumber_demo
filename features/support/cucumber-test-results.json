@@ -1,0 +1,85 @@
+[
+  {
+    "id": "Paytm-homepage-offers-Data-Card-Recharge",
+    "name": "Paytm homepage offers Data Card Recharge",
+    "description": "  As a user of the Paytm website I should be able to recharge the Data Card",
+    "line": 1,
+    "keyword": "Feature",
+    "uri": "D:\\BDDTests\\features\\homepage_datacard.feature",
+    "elements": [
+      {
+        "name": "",
+        "keyword": "Background",
+        "description": "",
+        "type": "background",
+        "line": 4,
+        "steps": [
+          {
+            "name": "On Paytm Data Card Recharge page",
+            "line": 5,
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "name": "User enters no amount and tries payment error message 'Please enter Recharge amount' displayed",
+        "id": "Paytm-homepage-offers-Data-Card-Recharge;user-enters-no-amount-and-tries-payment-error-message-'please-enter-recharge-amount'-displayed",
+        "line": 13,
+        "keyword": "Scenario",
+        "description": "",
+        "type": "scenario",
+        "steps": [
+          {
+            "name": "On Paytm Data Card Recharge page",
+            "line": 5,
+            "keyword": "Given ",
+            "result": {
+              "duration": 20211398159,
+              "status": "passed"
+            },
+            "match": {}
+          },
+          {
+            "name": "User insert data card number and confirm respective operators",
+            "line": 14,
+            "keyword": "When ",
+            "result": {
+              "duration": 1708279367,
+              "status": "passed"
+            },
+            "match": {}
+          },
+          {
+            "name": "User enters no amount for data card and clicks Proceed to Recharge button",
+            "line": 15,
+            "keyword": "And ",
+            "result": {
+              "duration": 11038935,
+              "status": "passed"
+            },
+            "match": {}
+          },
+          {
+            "name": "User should see the error message Please enter Recharge amount",
+            "line": 16,
+            "keyword": "Then ",
+            "result": {
+              "duration": 2496411071,
+              "status": "passed"
+            },
+            "match": {}
+          },
+          {
+            "keyword": "After ",
+            "hidden": true,
+            "result": {
+              "duration": 112899,
+              "status": "passed"
+            },
+            "match": {}
+          }
+        ]
+      }
+    ]
+  }
+]

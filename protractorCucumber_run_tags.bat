@@ -1,0 +1,1 @@
+call protractor config.js --cucumberOpts.tags="@param"

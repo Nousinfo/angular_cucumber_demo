@@ -1,0 +1,7 @@
+1. Jenkins report for multicapabilities(parallel)
+2. Return expected value issue (for confirming a text match) 
+3. Excel control for features/scenarios
+4. Failed screenshot handling and embed to report
+5. Assertion handling for text/image/element match.
+6. Customized report handling
+7. 

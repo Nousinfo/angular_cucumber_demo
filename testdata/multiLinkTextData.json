@@ -1,0 +1,96 @@
+[
+  {
+    "menuLinkText": "DTH",
+    "expectedUrl": "https://paytm.com/dth"
+  },
+
+  {
+    "menuLinkText": "DataCard",
+    "expectedUrl": "https://paytm.com/data-card"
+  },
+
+  {
+    "menuLinkText": "Landline",
+    "expectedUrl": "https://paytm.com/landline"
+  },
+
+  {
+    "menuLinkText": "Electricity",
+    "expectedUrl": "https://paytm.com/electricity"
+  },
+
+  {
+    "menuLinkText": "Gas",
+    "expectedUrl": "https://paytm.com/gas"
+  },
+
+  {
+  "menuLinkText": "Metro",
+  "expectedUrl": "https://paytm.com/metro"
+  },
+
+  {
+    "menuLinkText": "Education",
+    "expectedUrl": "https://paytm.com/education"
+  },
+
+  {
+    "menuLinkText": "Financial Services",
+    "expectedUrl": "https://paytm.com/financial-services"
+  },
+
+  {
+    "menuLinkText": "Mobile",
+    "expectedUrl": "https://paytm.com/"
+  },
+
+  {
+    "menuLinkText": "ELECTRONICS",
+    "expectedUrl": "https://paytm.com/shop/h/electronics"
+  },
+
+  {
+    "menuLinkText": "MEN",
+    "expectedUrl": "https://paytm.com/shop/h/men"
+  },
+
+  {
+    "menuLinkText": "WOMEN",
+    "expectedUrl": "https://paytm.com/shop/h/women"
+  },
+
+  {
+    "menuLinkText": "SPORTS & HEALTH",
+    "expectedUrl": "https://paytm.com/shop/h/sports-and-health"
+  },
+
+  {
+    "menuLinkText": "HOME & KITCHEN",
+    "expectedUrl": "https://paytm.com/shop/h/home-and-kitchen"
+  },
+
+  {
+    "menuLinkText": "BABY, KIDS & TOYS",
+    "expectedUrl": "https://paytm.com/shop/h/baby-kids-toys"
+  },
+
+  {
+    "menuLinkText": "BUS TICKETS",
+    "expectedUrl": "https://paytm.com/bus-tickets"
+  },
+
+  {
+    "menuLinkText": "AUTOMOTIVE",
+    "expectedUrl": "https://paytm.com/shop/h/automotive"
+  },
+
+  {
+    "menuLinkText": "MORE...",
+    "expectedUrl": "https://paytm.com/shop/h/deals"
+  },
+
+  {
+    "menuLinkText": "HOME",
+    "expectedUrl": "https://paytm.com/shop"
+  }
+]

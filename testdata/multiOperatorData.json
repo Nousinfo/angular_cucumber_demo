@@ -1,0 +1,45 @@
+[
+  {
+    "mobileNumber": "9900793619",
+    "operatorName": "Airtel"
+  },
+  {
+    "mobileNumber": "7411123456",
+    "operatorName": "Tata DOCOMO"
+  },
+
+  {
+    "mobileNumber": "9986123456",
+    "operatorName": "Vodafone"
+  },
+
+  {
+    "mobileNumber": "9812789891",
+    "operatorName": "Idea"
+  },
+
+  {
+    "mobileNumber": "7401123456",
+    "operatorName": "Aircel"
+  },
+
+  {
+    "mobileNumber": "9441123456",
+    "operatorName": "BSNL"
+  },
+
+  {
+    "mobileNumber": "9311123456",
+    "operatorName": "Reliance CDMA"
+  },
+
+  {
+    "mobileNumber": "9641123456",
+    "operatorName": "Reliance GSM"
+  },
+
+  {
+    "mobileNumber": "9211123456",
+    "operatorName": "Tata Indicom"
+  }
+]
